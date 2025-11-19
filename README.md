@@ -1,2 +1,2 @@
-# Srikeerthi2401.github.io
-Personal Website
+# Srikeerthi
+## Python Developer
